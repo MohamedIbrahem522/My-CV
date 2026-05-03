@@ -1,58 +1,23 @@
-# Mohamed Ibrahem — CV
+# Modern Minimalist Resume / CV Template 🚀
 
-Clean single-page HTML/CSS résumé for software engineering roles.
+A high-end, premium responsive resume template designed for Software Engineers. This project features a clean, "Cyber-Premium" aesthetic with a focus on typography and clear information hierarchy.
 
-**Live:** [my-portfolio-gamma-five-35.vercel.app](https://my-portfolio-gamma-five-35.vercel.app)
+## ✨ Features
 
----
+*   **Responsive Design:** Fully optimized for all screen sizes (Desktop, Tablet, and Mobile).
+*   **Premium Typography:** Utilizes Google Fonts including **Syne** for headings and **Syne Mono** for technical details.
+*   **Two-Column Layout:** Efficiently organized into a Sidebar (Stack, Education, Languages) and a Main Content area (Experience, Projects).
+*   **Hover Effects:** Interactive project cards with subtle elevation and border-color transitions.
+*   **Professional Branding:** Specialized sections for MERN stack, FastAPI, and Computer Vision (YOLOv8) expertise.
 
-## Stack
+## 🛠️ Tech Stack
 
-Pure HTML5 + CSS3 — zero dependencies, no frameworks, no JavaScript.
+*   **HTML5:** Semantic structure for better accessibility and SEO.
+*   **CSS3:** Custom properties (Variables) for easy theme management and advanced Grid/Flexbox layouts.
+*   **Google Fonts:** Syne & Syne Mono.
 
----
-
-## Usage
-
-```bash
-git clone https://github.com/MohamedIbrahem522/My-CV
-cd My-CV
-# open index.html in browser — no build step needed
-```
-
-**Export to PDF:** Chrome → `Ctrl+P` → Save as PDF → Margins: None → Background graphics: on.
-
----
-
-## Customization
-
-All colors in `style.css` under `:root`:
-
-```css
-:root {
-  --bg:      #f7f6f3;
-  --accent:  #1a6b3c;
-  --text:    #1a1a18;
-  --muted:   #6b6b65;
-}
-```
-
-Replace `WhatsApp Image 2024-07-06 at 17.52.15_f09d851e-Photoroom.png` with your own photo (square crop, min 200×200px).
-
----
-
-## Structure
-
-```
-My-CV/
-├── index.html
-├── style.css
-├── photo.jpg
-└── README.md
-```
-
----
-
-## License
-
-MIT
+## 📂 Structure
+```text
+├── index.html   # Main structure and content
+├── style.css    # Layout, typography, and "Cyber-Premium" styling
+└── README.md    # Project documentation
